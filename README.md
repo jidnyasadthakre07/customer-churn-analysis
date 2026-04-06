@@ -290,7 +290,7 @@ Based on the analysis, here are 5 data-driven recommendations for the retention 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/jidnyasadthakre07/customer-churn-analysis.git
 cd customer-churn-analysis
 ```
 
