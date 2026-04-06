@@ -326,8 +326,11 @@ Open `dashboard/Customer_Churn_Analysis.pbix` in **Power BI Desktop**
 ## 👤 Author
 
 **Jidnyasa Thakre**
+
 📧 jidnyasathakre3@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/jidnyasathakre/)
+
 🐙 [GitHub](https://github.com/jidnyasadthakre07)
 
 ---
